@@ -17,7 +17,7 @@ By using machine learning it is possible to learn a mapping from intensity to a 
 
 #### Datasets:
 
-I used one some of a dataset which I have recieved from a collaborator (Caroline Scott). These are cells imaged using bright-field microscopy. We are interested in how many cells are present in each image.
+I used one some of a dataset which I have recieved from a collaborator (Caroline Scott). These are cells imaged using bright-field microscopy. We are interested in how many cells are present in each image. Below we have an example image and a corresponding annotated example.
 
 ![alt text](dataset02/001cells.png "example image") ![alt text](dataset02/001dots.png "example annotation")
 
